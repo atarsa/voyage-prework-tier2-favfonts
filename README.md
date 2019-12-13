@@ -23,12 +23,12 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 - [x] Nav with Major navigation / page-manipulation *(search, custom text, font-size, dark/light mode, grid/list mode, and reset)*
 - [x] Main section for the font cards
 - [x] Font cards which display the Font Name, the sample text, and an add button (the font creator is **not** available via the api, so it is not required in tiers 2 or 3)
-- [ ] Back-to-top button that allows users to click and scroll back up to the top *(there could be up to 959 fonts displayed, so you need this!)*
+- [x] Back-to-top button that allows users to click and scroll back up to the top *(there could be up to 959 fonts displayed, so you need this!)*
 - [x] Footer section with your developer information
 
 *Style*
 - [x] Sample text in each card should be displayed in the corresponding font
-- [ ] Buttons/links should be evident (make sure the cursor changes, etc.)
+- [x] Buttons/links should be evident (make sure the cursor changes, etc.)
 - [ ] Implement a way to handle overflow from sample text in the font cards, as the font size is adjustable
 
 *Functionality*
