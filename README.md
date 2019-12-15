@@ -29,7 +29,7 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 *Style*
 - [x] Sample text in each card should be displayed in the corresponding font
 - [x] Buttons/links should be evident (make sure the cursor changes, etc.)
-- [ ] Implement a way to handle overflow from sample text in the font cards, as the font size is adjustable
+- [x] Implement a way to handle overflow from sample text in the font cards, as the font size is adjustable
 
 *Functionality*
 - [x] Text typed into the custom text (type something) box should immediately change the sample text in each font card
