@@ -47,8 +47,8 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 **Extras (Not Required)**
 
 - [ ] Make your design fully responsive (small/large/portrait/landscape, etc.)
-- [ ] Implement the light/dark mode toggle buttons
-- [ ] Implement the change display icon so you can flip between a grid layout and a list layout for the font cards
+- [x] Implement the light/dark mode toggle buttons
+- [x] Implement the change display icon so you can flip between a grid layout and a list layout for the font cards
 - [ ] Make the 'add-font' icon add the font to a list (localHost, Cache API, etc) for front-end persistence; users can then delete the font from the list
 
 ## API Information ##
